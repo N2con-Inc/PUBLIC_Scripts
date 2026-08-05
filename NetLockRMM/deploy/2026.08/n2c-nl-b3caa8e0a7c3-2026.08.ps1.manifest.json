@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "createdUtc": "2026-08-05T23:24:31.6595359Z",
+  "fileName": "n2c-nl-b3caa8e0a7c3-2026.08.ps1",
+  "unsignedSha256": "85B5E9A75BCD44D86E321BEE4ABD6A0A0343A1BFAF15D9CE13E5094D5D9325C0",
+  "signedSha256": "60D3BEE7F938A55A803CBE05B19D1EE67875AF8899D9F2C32B244C1789F329D4",
+  "signatureStatus": "Valid",
+  "signerSubject": "CN=N2CON Inc., O=N2CON Inc., L=San Ramon, S=California, C=US",
+  "signerThumbprint": "148809E00B3E9D38F128DC4055341A66B0F1F50B",
+  "certificateNotBefore": "2026-08-04T23:07:04.0000000Z",
+  "certificateNotAfter": "2026-08-07T23:07:04.0000000Z",
+  "timestamped": true,
+  "artifactSigningAccount": "n2conartifactsigning",
+  "certificateProfile": "N2conPublicTrust",
+  "azureDevOpsBuildId": "33"
+}

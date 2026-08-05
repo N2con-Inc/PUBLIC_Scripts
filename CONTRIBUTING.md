@@ -4,7 +4,7 @@ This repository is the public distribution point for approved N2con scripts. Dev
 
 Before publishing a PowerShell artifact:
 
-1. Remove customer-identifying information and secrets.
+1. Remove customer-identifying information and unrelated secrets. An approved, time-bounded enrollment URL may remain only when it is the script's intended public bootstrap mechanism.
 2. Complete review and approval in the private signing workflow.
 3. Verify that the final file has a valid N2con Authenticode signature.
 4. Test the exact signed artifact using its documented deployment method.
