@@ -2,6 +2,8 @@
 
 This directory is the public distribution point for N2con's signed NetLock RMM deployment scripts.
 
+Current signed wrappers: [2026.10.22](deploy/2026.10.22). Older releases are superseded for new deployments.
+
 ## Deployment model
 
 - N2con maintains one preauthorized enrollment package per customer.
