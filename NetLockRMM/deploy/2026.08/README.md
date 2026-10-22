@@ -1,6 +1,6 @@
 # NetLock RMM deployment release 2026.08
 
-> Superseded on 2026-08-20. NetLock 3.2 no longer accepts the long-lived password URLs embedded in these wrappers. Do not deploy this release; use `2026.08.20` with its matching private ZIP asset.
+> Superseded. NetLock 3.2 no longer accepts the long-lived password URLs embedded in these wrappers. Do not deploy this release; use `2026.10.22` with its matching private ZIP asset.
 
 This release contains 16 public N2con-signed PowerShell bootstrap scripts and their signing manifests. Each opaque deployment ID maps to one shared N2con or client tenant in the internal Docmost deployment directory.
 
