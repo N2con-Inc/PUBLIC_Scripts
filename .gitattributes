@@ -1,0 +1,3 @@
+# Authenticode signs exact bytes. Never normalize released PowerShell line endings.
+NetLockRMM/deploy/**/*.ps1 -text whitespace=cr-at-eol
+NetLockRMM/deploy/**/*.ps1.manifest.json -text whitespace=cr-at-eol
